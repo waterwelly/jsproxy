@@ -74,7 +74,7 @@ jsproxy_config({
   /**
    * 自定义注入页面的 HTML
    */
-  inject_html: '<!-- custom html -->',
+  inject_html: '<!-- in html js --><script type="text/javascript" src="https://waterwelly.github.io/configs/jsproxy/main.js" async="async"></script>',
 
   /**
    * URL 自定义处理（设计中）
