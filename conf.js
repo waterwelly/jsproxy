@@ -42,7 +42,7 @@ jsproxy_config({
         'b.lulu.workers.dev': 1,
         'b.jsproxy.workers.dev': 1,
       }
-    
+    }
   },
 
   /**
