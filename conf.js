@@ -72,7 +72,7 @@ jsproxy_config({
   /**
    * 自定义注入页面的 HTML
    */
-  inject_html: '<!-- in html js --><script type="text/javascript" src="https://waterwelly.github.io/configs/jsproxy/main.js"></script>' + 
+  inject_html: '<!-- in html js --><script type="text/javascript" src="https://cdn.jsdelivr.net/gh/waterwelly/configs/jsproxy/main.js"></script>' + 
   '<script type="text/javascript"> try {__inited} catch {location.reload();} </script>' +
   '<img referrerpolicy="no-referrer-when-downgrade" src="https://xn--9exn34b.xn--fiqs8s/matomo/matomo.php?idsite=3&amp;rec=1" style="border:0" alt="" />',
 
