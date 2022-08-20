@@ -46,7 +46,7 @@ jsproxy_config({
   /**
    * 默认节点
    */
-  node_default: 'cfworker',
+  node_default: 'mysite',
   // node_default: /jsproxy-demo\.\w+$/.test(location.host) ? 'demo-hk' : 'mysite',
 
   /**
